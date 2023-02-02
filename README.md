@@ -16,6 +16,6 @@ Course detail : 12h video course on building your fullstack web application from
 
 Say hi ! I'm always excited to connect with new people !
 
-[My Linkedin](https://www.linkedin.com/in/vito-savalli/)  
-Email: vito.savallimunoz@gmail.com  
-tel: +33660696138
+[My Linkedin &#8594;](https://www.linkedin.com/in/vito-savalli/)  
+&#9993; : vito.savallimunoz@gmail.com  
+&#128222; : +33660696138
